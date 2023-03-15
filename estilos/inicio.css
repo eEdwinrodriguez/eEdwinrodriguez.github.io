@@ -1,0 +1,40 @@
+#img1{
+    display: inline-block;
+    float: left;
+    width: 18%;
+    
+}
+#titulo{
+    text-align: center;
+    display: inline-block;
+    clear: both;
+    width:76%;
+        color:blueviolet;
+}
+h2{
+    clear: both;
+    text-align: center;
+    color:orange;
+}
+.p{
+    text-align: center;
+    width: 40%;
+    clear: inherit;
+}
+.im{
+    float: right;
+    clear: both;
+
+}
+#p{
+    float: center;
+    clear: both;
+    display: inline-block;
+}
+#fo{
+    text-align: center;
+    border: solid red 6px;
+}
+main{
+    background-color: azure;
+}

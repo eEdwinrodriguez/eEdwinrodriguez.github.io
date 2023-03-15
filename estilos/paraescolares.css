@@ -1,0 +1,39 @@
+.izq{
+    text-align: left;
+     color: aqua;
+
+}
+.der{
+    text-align: right;
+    clear:both;
+    color: aqua;
+    display: inline-block;
+    width: 80%;
+}
+
+.iz{
+    float: left;
+   border: solid blue 5px;
+}
+.id{
+    float: right;
+     display: inline-block;
+    padding: 3px;
+    border: solid blue 5px;
+}
+h1{
+    text-align: center;
+display: inline-block;
+    width: 100%;
+    color: blue;
+   
+}
+
+p{
+    text-align: center;
+    clear: both;
+    font-size: 20px;
+}
+body{
+    background-color: cornflowerblue;
+}

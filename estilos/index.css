@@ -1,0 +1,44 @@
+#imagen1{
+    display: inline-block;
+    width: 5%;
+    float: left;
+
+    
+}
+#imagen2{
+    display: inline-block;
+    width: 5%;
+  text-align: right;
+   
+}
+
+#dp{
+    display: inline-block;
+    float; center;
+    text-align: center;
+}
+#nab{
+    clear: both;
+}
+.lita{
+    display: inline-block;
+    width: 10;
+    background-color: cyan;
+    border: solid orange 4px;
+    text-align: center;
+}
+#marco{
+    padding: 8px;
+    width:95%;
+    height: 400px;
+}
+#pie{
+    border: double;
+    text-align: center;
+    background-color: azure;
+    font-size: 15px;
+    
+}
+footer{
+    background-color: darkgoldenrod;
+}

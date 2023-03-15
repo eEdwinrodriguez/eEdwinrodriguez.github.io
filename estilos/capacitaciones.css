@@ -1,0 +1,35 @@
+#mc2{
+    clear: both;
+    display: inline-block;
+    padding: 8px;
+    width: 100%;
+    height: 400px;;
+}
+main{
+    width: 100%;
+    
+}
+#t{
+   display: inline-block;
+    text-align: center;
+    font-family:monospace;
+    width: 80%;
+    clear: both;
+
+}
+#im{
+    float: left;
+    display: inline-block;
+    width: 10%;
+    
+}
+nas{
+    text-align: left;
+    clear: both;
+    
+}
+p{
+    clear: both;
+    text-align: center;
+    font-size: 20px;
+}
